@@ -6,7 +6,7 @@ pipeline {
             steps{
                 gitCheckout{
                     branch: "main"
-                    url: "https://github.com/sivagovind586/jenkins_shared_lib.git"
+                    url: "https://github.com/sivagovind586/mrdevops_java_app.git"
                 }
             }
         }
